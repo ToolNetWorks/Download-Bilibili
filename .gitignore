@@ -1,0 +1,23 @@
+# Python environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+secrets/
+cookies*.txt
+
+# Downloads, temporary files and logs
+tmp/
+logs/
+*.mp4
+*.m4a
+*.part
+*.writing
+*.assembling
+*.chunks/
+
+downloads/
