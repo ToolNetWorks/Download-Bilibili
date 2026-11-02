@@ -21,3 +21,7 @@ logs/
 *.chunks/
 
 downloads/
+
+# Python packaging and editor backups
+*.egg-info/
+*.bak
